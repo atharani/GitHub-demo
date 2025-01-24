@@ -1,2 +1,2 @@
-# GitHub-demo
-SDS Github course
+# GitHub demo Repo
+This is a demo of how to use and work with Github.
